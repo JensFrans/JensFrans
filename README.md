@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JanFranco :)
+- 👋 Hi, I'm JanFranco but you can call me Shio :D
 - ✨ Programmer in training... 
 - 👀 I am interested in the development of Software and videogames :D
 - 🌱 I am currently learning Java and GDScript.
