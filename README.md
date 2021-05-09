@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JensFrans :)
+- 👋 Hi, I’m JanFranco :)
 - ✨ Programmer in training... 
 - 👀 I am interested in the development of Software and videogames :D
 - 🌱 I am currently learning Java and GDScript.
