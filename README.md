@@ -40,11 +40,11 @@ Hi, I'm JanFranco but you can call me Shio, I'm a software developer 🚀 self-t
 
 
 <a href="https://github.com/JensFrans/BitlesQuery-DataSystem">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JensFrans&repo=A-POP" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JensFrans&repo=BitlesQuery-DataSystem" />
 </a>
 
 <a href="https://github.com/JensFrans/Tetris-game-v1.0">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JensFrans&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JensFrans&repo=Tetris-game-v1.0" />
 </a>
 
 
