@@ -40,6 +40,9 @@ _Still in the learning process_ 👨‍💻
 
 ![JensFrans github stats](https://github-readme-stats.vercel.app/api?username=JensFrans&show_icons=true&hide_border=true)
 
+<img align="" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<br>
+
 ⭐️ From [JensFrans](https://github.com/JensFrans)
 
 
