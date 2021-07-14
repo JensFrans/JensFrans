@@ -14,8 +14,8 @@ Hi, I'm JanFranco but you can call me Shio, I'm a software developer 🚀 self-t
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+  <img align="" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+
   
   
 **Talking about Personal Stuffs:**
@@ -40,7 +40,6 @@ _Still in the learning process_ 👨‍💻
 
 ![JensFrans github stats](https://github-readme-stats.vercel.app/api?username=JensFrans&show_icons=true&hide_border=true)
 
-<img align="" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
 ⭐️ From [JensFrans](https://github.com/JensFrans)
